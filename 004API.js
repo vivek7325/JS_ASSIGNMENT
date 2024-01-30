@@ -23,6 +23,16 @@ async function showPostData() {
 showPostData();
 
 
+// PS C:\Users\HP\Javascript> node "c:\Users\HP\Javascript\JS_ASSIGNMENT\004-006API.js"
+// [
+//   'sunt aut facere repellat provident occaecati excepturi optio reprehenderit',
+//   'qui est esse',
+//   'ea molestias quasi exercitationem repellat qui ipsa sit aut',  
+//   'eum et est occaecati',
+//   'nesciunt quas odio'
+// ]
+
+
 
 
 
