@@ -136,4 +136,15 @@ let j=12;
 // cant be redeclared
 // let j=13;
 
+// C) Var 
+
+// unexpected error
+
+if(true){
+    console.log(age);  // shows undefined
+    var age = 19;
+}
+console.log(age); //  access here out of block
+
+
 
